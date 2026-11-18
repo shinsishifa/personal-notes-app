@@ -20,4 +20,4 @@ A clean, responsive Personal Notes and Reminders application built using **Flutt
 * **Dart** - Programming Language
 
 
-to visit:   https:/shinsishifa/.github.io/personal-notes-app/
+to visit:   https://shinsishifa/.github.io/personal-notes-app/
