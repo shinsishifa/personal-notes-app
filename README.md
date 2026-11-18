@@ -18,4 +18,6 @@ A clean, responsive Personal Notes and Reminders application built using **Flutt
 
 * **Flutter** - Cross-Platform UI Framework
 * **Dart** - Programming Language
+
+
 to visit: https:/shinsishifa/.github.io/personal-notes-app/
